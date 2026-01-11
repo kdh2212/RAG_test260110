@@ -124,7 +124,6 @@ langgraph-prebuilt==1.0.5
 langgraph-sdk==0.3.2
 langserve==0.3.3
 # Editable install with no version control (langserve_demo_app==0.1.0)
--e c:\users\kim\langrag260110\langserve_demo_app
 langsmith==0.6.2
 libclang==18.1.1
 loguru @ file:///D:/bld/loguru_1746634725470/work
